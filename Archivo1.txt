@@ -1,1 +1,2 @@
 contenido archivo1.txt
+edicion
